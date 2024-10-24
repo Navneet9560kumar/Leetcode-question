@@ -22,7 +22,7 @@ class Solution {
         }
         return prev;
     }
-
+ // the second saluction is 
     public boolean isPalindrome(ListNode head) {
         ListNode slow = head;
        ListNode fast = head;
