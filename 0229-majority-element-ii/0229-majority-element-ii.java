@@ -16,7 +16,8 @@ class Solution {
                 }
             }
             
-             if (ls.size() == 2) {
+            
+            if (ls.size() == 2) {
                 break;
             }
         }
