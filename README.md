@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
