@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
