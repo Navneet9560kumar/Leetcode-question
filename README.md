@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0812-rotate-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
