@@ -1,5 +1,4 @@
 class Solution {
-       // Helper method to check if the number of set bits is equal for two integers
     static boolean Equal(int a, int b) {
         return Integer.bitCount(a) == Integer.bitCount(b);
     }
