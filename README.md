@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -106,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3291-find-if-array-can-be-sorted) |
 ## String Matching
 |  |
