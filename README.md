@@ -61,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0443-string-compression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
