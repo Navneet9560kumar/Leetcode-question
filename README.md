@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0283-move-zeroes) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Dynamic Programming
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
