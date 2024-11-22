@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
