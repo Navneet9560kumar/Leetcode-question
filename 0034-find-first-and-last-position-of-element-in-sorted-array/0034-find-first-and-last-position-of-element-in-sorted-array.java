@@ -1,43 +1,38 @@
 class Solution {
-      public static int[] searchRange(int[] nums, int target) {
-            int[] ans = { -1, -1 };
+    public int[] searchRange(int[] arr, int target) {
+        int n = arr.length;
+        int[] ans = {-1, -1}; // Default values if the target is not found
 
-      
-            ans[0] = search(nums, target, true);
-      
-            if (ans[0] != -1) {
-                 
-                  ans[1] = search(nums, target, false);
+        // Find the first position of the target
+        ans[0] = findPosition(arr, target, true);
+
+        // Find the last position of the target
+        ans[1] = findPosition(arr, target, false);
+
+        return ans;
+    }
+
+    // Helper function to find either first or last position
+    private int findPosition(int[] arr, int target, boolean findFirst) {
+        int lo = 0, hi = arr.length - 1, position = -1;
+
+        while (lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+
+            if (arr[mid] == target) {
+                position = mid; // Record the position
+                if (findFirst) {
+                    hi = mid - 1; // Continue searching in the left half
+                } else {
+                    lo = mid + 1; // Continue searching in the right half
+                }
+            } else if (arr[mid] < target) {
+                lo = mid + 1;
+            } else {
+                hi = mid - 1;
             }
+        }
 
-            return ans;
-      }
-
-      private static int search(int[] nums, int target, boolean findStartIndex) {
-            int ans = -1;
-            int start = 0;
-            int end = nums.length - 1;
-
-            while (start <= end) {
-                  int mid = start + (end - start) / 2;
-
-                  if (target < nums[mid]) {
-                        end = mid - 1;
-                  } else if (target > nums[mid]) {
-                        start = mid + 1;
-                  } else {
-                        // If the target is found
-                        ans = mid;
-                        if (findStartIndex) {
-                              // Search for the start index
-                              end = mid - 1;
-                        } else {
-                              // Search for the end index
-                              start = mid + 1;
-                        }
-                  }
-            }
-
-            return ans;
-      }
+        return position;
+    }
 }
