@@ -1,27 +1,35 @@
 class Solution {
-    public int minimizedMaximum(int n, int[] quantities) {
-          int low = 1, high = Integer.MAX_VALUE;
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            if (canDistribute(quantities, n, mid)) {
-                high = mid;
-            } else {
-                low = mid + 1;
-            }
+
+    public boolean isPossible(int maxQ, int n,int[]arr){
+        int store = 0;
+        
+        for(int i=0;i<arr.length;i++){
+           if(arr[i]%maxQ==0)store +=arr[i]/maxQ;
+     else store += arr[i] / maxQ + 1;
+
         }
-        return low;
+        if(store>n)return false;
+        return true ;
     }
 
-    private boolean canDistribute(int[] quantities, int stores, int maxProducts) {
-        int neededStores = 0;
-        for (int quantity : quantities) {
-            neededStores += (quantity + maxProducts - 1) / maxProducts;
+    public int minimizedMaximum(int n, int[] quantities) {
+     int m = quantities.length, mx = Integer.MIN_VALUE;
+
+        for(int i=0; i<m;i++){
+            mx = Math.max(mx,quantities[i]);
         }
-        return neededStores <= stores;
+        int lo=1, hi= mx;
+        int ans =0;
+        while(lo<=hi){
+            int mid = lo+(hi-lo)/2;
+            if(isPossible(mid,n,quantities)){
+                ans = mid;
+                hi = mid -1;
+
+            }
+            else lo= mid +1;
+        }
+        return ans;
+
     }
 }
-
-
-
-
-
