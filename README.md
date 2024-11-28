@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1940-maximum-xor-for-each-query) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
