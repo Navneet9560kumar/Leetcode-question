@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0443-string-compression) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1755-defuse-the-bomb) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
