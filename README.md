@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
