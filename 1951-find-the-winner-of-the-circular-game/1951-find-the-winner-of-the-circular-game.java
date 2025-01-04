@@ -1,6 +1,4 @@
 class Solution {
-
-
      private int findWinner(int n, int k) {
         if (n == 1) {
             return 0; 
