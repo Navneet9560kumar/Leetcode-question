@@ -1,6 +1,6 @@
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
- List<String> result = new ArrayList<>();
+    List<String> result = new ArrayList<>();
         Stack<String> st = new Stack<>();
         Set<String> seen = new HashSet<>();
         Set<String> added = new HashSet<>();
