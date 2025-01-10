@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1025-minimum-cost-for-tickets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0649-dota2-senate) |
 | [0812-rotate-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1524-string-matching-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1524-string-matching-in-an-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0952-word-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
