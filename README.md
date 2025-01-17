@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0661-image-smoother](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0661-image-smoother) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0792-binary-search) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1063-best-sightseeing-pair) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0493-reverse-pairs) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0792-binary-search) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -563,11 +567,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
