@@ -1,24 +1,33 @@
 class Solution {
-
-    
-
     public int findLength(int[] nums1, int[] nums2) {
-      int m = nums1.length;
-        int n = nums2.length;
-        int[][] dp = new int[m + 1][n + 1]; // DP table
-        int maxLength = 0;
+         int maxLength = 0;
 
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (nums1[i - 1] == nums2[j - 1]) {
-                    dp[i][j] = dp[i - 1][j - 1] + 1;
-                    maxLength = Math.max(maxLength, dp[i][j]);
-                } else {
-                    dp[i][j] = 0;
-                }
-            }
+        // Check all possible alignments of nums1 and nums2
+        for (int offset = 0; offset < nums1.length; offset++) {
+            maxLength = Math.max(maxLength, maxCommonLength(nums1, nums2, offset, 0));
+        }
+        for (int offset = 0; offset < nums2.length; offset++) {
+            maxLength = Math.max(maxLength, maxCommonLength(nums1, nums2, 0, offset));
         }
 
         return maxLength;
-}
+    }
+
+    private int maxCommonLength(int[] nums1, int[] nums2, int start1, int start2) {
+        int length = 0;
+        int maxLength = 0;
+
+        while (start1 < nums1.length && start2 < nums2.length) {
+            if (nums1[start1] == nums2[start2]) {
+                length++;
+                maxLength = Math.max(maxLength, length);
+            } else {
+                length = 0;
+            }
+            start1++;
+            start2++;
+        }
+
+        return maxLength;
+    }
 }
