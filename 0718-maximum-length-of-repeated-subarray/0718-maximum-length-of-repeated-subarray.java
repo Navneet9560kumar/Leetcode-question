@@ -1,33 +1,24 @@
 class Solution {
     public int findLength(int[] nums1, int[] nums2) {
-         int maxLength = 0;
+          int maxLength = 0;
 
         // Check all possible alignments of nums1 and nums2
-        for (int offset = 0; offset < nums1.length; offset++) {
-            maxLength = Math.max(maxLength, maxCommonLength(nums1, nums2, offset, 0));
-        }
-        for (int offset = 0; offset < nums2.length; offset++) {
-            maxLength = Math.max(maxLength, maxCommonLength(nums1, nums2, 0, offset));
+        for (int i = 0; i < nums1.length; i++) {
+            for (int j = 0; j < nums2.length; j++) {
+                maxLength = Math.max(maxLength, maxCommonLength(nums1, nums2, i, j));
+            }
         }
 
         return maxLength;
     }
 
-    private int maxCommonLength(int[] nums1, int[] nums2, int start1, int start2) {
+    private int maxCommonLength(int[] nums1, int[] nums2, int i, int j) {
         int length = 0;
-        int maxLength = 0;
-
-        while (start1 < nums1.length && start2 < nums2.length) {
-            if (nums1[start1] == nums2[start2]) {
-                length++;
-                maxLength = Math.max(maxLength, length);
-            } else {
-                length = 0;
-            }
-            start1++;
-            start2++;
+        while (i < nums1.length && j < nums2.length && nums1[i] == nums2[j]) {
+            length++;
+            i++;
+            j++;
         }
-
-        return maxLength;
+        return length;
     }
 }
