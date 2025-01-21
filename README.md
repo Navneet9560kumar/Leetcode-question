@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0443-string-compression) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0952-word-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0299-bulls-and-cows) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
