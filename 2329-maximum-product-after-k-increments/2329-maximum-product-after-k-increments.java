@@ -3,9 +3,9 @@ class Solution {
           
         final int MOD = 1_000_000_007;
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for (int num : nums) {
-            pq.offer(num);
+PriorityQueue<Integer> pq = new PriorityQueue<>();
+          for (int num : nums) {
+                  pq.offer(num);
         }
 
         while (k > 0) {
