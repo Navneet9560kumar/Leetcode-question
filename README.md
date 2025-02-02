@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1558-course-schedule-iv) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
