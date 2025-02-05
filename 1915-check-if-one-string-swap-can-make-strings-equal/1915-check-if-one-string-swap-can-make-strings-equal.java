@@ -1,25 +1,27 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-                  if (s1.equals(s2)) {
-            return true;
-        }
-
-        int first = -1, second = -1;
-
-        for (int i = 0; i < s1.length(); i++) {
-            if (s1.charAt(i) != s2.charAt(i)) {
-                if (first == -1) {
-                    first = i;
-                } else if (second == -1) {
-                    second = i;
-                } else {
-                    return false;
-                }
+        if(s1.equals(s2)) return true;
+        int count=0;
+        int freq[]=new int[26];
+        for(int i=0;i<s1.length();i++){
+            freq[s1.charAt(i)-'a']++;
+            if(s1.charAt(i)!=s2.charAt(i)){
+                count++;
             }
         }
-
-        return second != -1 &&
-               s1.charAt(first) == s2.charAt(second) &&
-               s1.charAt(second) == s2.charAt(first);
+        for(int i=0;i<s2.length();i++){
+            freq[s2.charAt(i)-'a']--;
+        }
+        int freqcount=0;
+        for(int i=0;i<26;i++){
+            if (freq[i] != 0) {
+                freqcount++;
+            }
+        }
+        if(count==2 && freqcount==0){
+            return true;
+        }else{
+            return false;
+        }
     }
 }
