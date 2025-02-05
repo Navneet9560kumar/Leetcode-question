@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0143-reorder-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0283-move-zeroes) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
