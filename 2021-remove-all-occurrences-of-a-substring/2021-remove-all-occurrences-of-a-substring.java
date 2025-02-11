@@ -1,12 +1,14 @@
 class Solution {
 
-    public String removeOccurrences(String s, String part) {
-        // Keep removing the part as long as it exists in the string
-        while (s.contains(part)) {
-            // Find the leftmost occurrence of part and remove it
-            s = s.replaceFirst(part, "");
+   public String removeOccurrences(String s, String part) {
+        StringBuffer str = new StringBuffer(s);
+        while(str.length() > 0 && str.indexOf(part) < str.length()) {
+            if(str.indexOf(part) == -1)
+                return str.toString();
+            else 
+                str.delete(str.indexOf(part), str.indexOf(part)+part.length());
         }
-        // Return the modified string
-        return s;
+
+        return str.toString();
     }
 }
