@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0226-invert-binary-tree) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
