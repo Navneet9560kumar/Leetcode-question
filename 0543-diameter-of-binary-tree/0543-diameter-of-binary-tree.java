@@ -1,31 +1,31 @@
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
-}
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
 
-public class Solution {
-    private int diameter = 0; // Member variable to store the diameter
-
-    public int diameterOfBinaryTree(TreeNode root) {
-        helper(root);
-        return diameter; // Return the calculated diameter
+    public int levels(TreeNode root, int[]maxDia){
+        if(root==null)return 0;
+        int leftLevels = levels(root.left,maxDia);
+        int rightLevels = levels(root.right,maxDia);
+        int dia = leftLevels + rightLevels;
+        maxDia[0] = Math.max(dia,maxDia[0]);
+        return 1 + Math.max(leftLevels,rightLevels);
     }
-
-    private int helper(TreeNode node) {
-        if (node == null) return 0; // Base case: if node is null, return 0
-
-        int leftDepth = helper(node.left);   // Get depth of left subtree
-        int rightDepth = helper(node.right); // Get depth of right subtree
-
-        // Calculate diameter at this node (number of edges)
-        int currentDiameter = leftDepth + rightDepth;
-
-        // Update the maximum diameter found so far
-        diameter = Math.max(diameter, currentDiameter);
-
-        // Return the depth of this subtree
-        return Math.max(leftDepth, rightDepth) + 1;
+    public int diameterOfBinaryTree(TreeNode root) {
+        int[]maxDia = {0};
+        levels(root,maxDia);
+        return maxDia[0];
     }
 }
