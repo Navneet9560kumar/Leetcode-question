@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Union Find
 |  |
