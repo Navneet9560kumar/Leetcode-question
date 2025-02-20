@@ -18,18 +18,16 @@ class Solution {
         if (root == null) return 0;
 
         int sum = 0;
-        
-        // Add root value if it's within range
+
         if (root.val >= low && root.val <= high) {
             sum += root.val;
         }
 
-        // Search left subtree only if root value is greater than low
+     
         if (root.val > low) {
             sum += rangeSumBST(root.left, low, high);
         }
 
-        // Search right subtree only if root value is less than high
         if (root.val < high) {
             sum += rangeSumBST(root.right, low, high);
         }
