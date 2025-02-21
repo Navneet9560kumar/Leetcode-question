@@ -15,7 +15,7 @@
  */
 
 
-class FindElements {
+class FindElements { 
     BitSet recoveredValues;
 
     public FindElements(TreeNode root) {
@@ -39,8 +39,11 @@ class FindElements {
 
     public boolean find(int target) {
         return recoveredValues.get(target);
+
+         
+         }
     }
-}
+
 
 /**
  * Your FindElements object will be instantiated and called as such:
