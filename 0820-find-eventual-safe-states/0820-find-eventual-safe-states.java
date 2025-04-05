@@ -1,30 +1,46 @@
+import java.util.*;
+
 class Solution {
-     public List<Integer> eventualSafeNodes(int[][] graph) {
+    public List<Integer> eventualSafeNodes(int[][] graph) {
         int n = graph.length;
-        int[] state = new int[n]; // 0: unvisited, 1: visiting, 2: safe
-        List<Integer> safe = new ArrayList<>();
+        
+        // Step 1: Create reverse graph
+        List<List<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        int[] indegree = new int[n];
 
         for (int i = 0; i < n; i++) {
-            if (dfs(graph, i, state)) {
-                safe.add(i);
+            for (int ele : graph[i]) {
+                adj.get(ele).add(i); // Reverse the edge
+                indegree[i]++;
             }
         }
-        
-        return safe;
-    }
 
-    private boolean dfs(int[][] graph, int node, int[] state) {
-        if (state[node] > 0) return state[node] == 2; // Already safe
-        
-        state[node] = 1; // Mark as visiting
-        
-        for (int next : graph[node]) {
-            if (state[next] == 1 || !dfs(graph, next, state)) {
-                return false; // Cycle detected
+        // Step 2: Apply Kahn's Algorithm (Topological Sort)
+        Queue<Integer> q = new LinkedList<>();
+        List<Integer> ans = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) q.add(i);
+        }
+
+        while (!q.isEmpty()) {
+            int front = q.poll();
+            ans.add(front);
+
+            for (int neighbor : adj.get(front)) {
+                indegree[neighbor]--;
+                if (indegree[neighbor] == 0) {
+                    q.add(neighbor);
+                }
             }
         }
-        
-        state[node] = 2; // Mark as safe
-        return true;
+
+        // Step 3: Sort the result before returning (as per LeetCode format)
+        Collections.sort(ans);
+        return ans;
     }
 }
