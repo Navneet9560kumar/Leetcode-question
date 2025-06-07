@@ -1,30 +1,43 @@
 class Solution {
-      public static int findCircleNum(int[][] adj) {
-            int n = adj.length;
-            int count = 0;
-            boolean[] vis = new boolean[n]; // har node ke leye vissbile hai ke nahi hai vo is leye ban rahe hai ham
-            for (int i = 0; i < adj.length; i++) {
-                  if (!vis[i]) {
-                        dfs(adj, vis, i);
-                        count++;
-                  }
-            }
-            return count;
-      }
+    static int[] parent;
 
-      private static void dfs(int[][] adj, boolean[] vis, int i) {
-            vis[i] = true;
-            Queue<Integer> q = new LinkedList<>();
-            q.add(i);
-            while (!q.isEmpty()) {
-                  int front = q.remove();
-                  for (int j = 0; j < adj.length; j++) {
-                        if (adj[front][j] == 1 && !vis[j]) {
-                              q.add(j);
-                              vis[j] = true;
-                        }
-                  }
-            }
-      }
+    public static int find(int a) {
+        if (parent[a] == a) return a;
+        return parent[a] = find(parent[a]); // Path compression
+    }
 
+    public static void union(int a, int b) {
+        int leaderA = find(a);
+        int leaderB = find(b);
+        if (leaderA != leaderB) {
+            parent[leaderB] = leaderA; // Merge the sets
+        }
+    }
+
+    public int findCircleNum(int[][] isConnected) {
+        int n = isConnected.length;
+        parent = new int[n];
+
+        // Initially each node is its own parent
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+
+        // Connect the cities
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) { // Avoid duplicate checks (i,j) == (j,i)
+                if (isConnected[i][j] == 1) {
+                    union(i, j);
+                }
+            }
+        }
+
+        // Count unique parents (number of provinces)
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            if (parent[i] == i) count++;
+        }
+
+        return count;
+    }
 }
