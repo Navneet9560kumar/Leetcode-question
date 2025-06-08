@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
