@@ -1,7 +1,14 @@
 class Solution {
-    public int fib(int n) {
-           if (n <= 1)
-                  return n;
-            return fib(n - 1) + fib(n - 2);
+    static int[] dp;
+
+    private static int fibHelper(int n) {
+        if (n <= 1) return n;
+        if (dp[n] != 0) return dp[n];
+        return dp[n] = fibHelper(n - 1) + fibHelper(n - 2);
+    }
+
+    public static int fib(int n) {
+        dp = new int[n + 1];
+        return fibHelper(n);
     }
 }
