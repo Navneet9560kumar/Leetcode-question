@@ -584,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2089-maximum-matrix-sum) |
