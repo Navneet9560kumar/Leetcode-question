@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
