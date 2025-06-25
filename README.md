@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0215-kth-largest-element-in-an-array) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
