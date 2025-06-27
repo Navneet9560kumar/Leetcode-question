@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2089-maximum-matrix-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2300-construct-string-with-repeat-limit) |
@@ -886,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -989,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3201-distribute-candies-among-children-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
