@@ -1,38 +1,26 @@
 class Solution {
-    public int coinChange(int[] coins, int amount) {
-         int n = coins.length;
-        int[][] t = new int[n + 1][amount + 1];
-
-        // Initialize first row with INT_MAX - 1
-        for (int j = 1; j <= amount; j++) {
-            t[0][j] = Integer.MAX_VALUE - 1;
-        }
-
-        // Initialize first column with 0
-        for (int i = 0; i <= n; i++) {
-            t[i][0] = 0;
-        }
-
-        // Initialize second row (i = 1) - only using first coin
-        for (int j = 1; j <= amount; j++) {
-            if (j % coins[0] == 0) {
-                t[1][j] = j / coins[0];
-            } else {
-                t[1][j] = Integer.MAX_VALUE - 1;
+    public static long coinCount(int i, int[] coins, int amount,  int[][]dp) {
+            if (i == coins.length) {
+                  if (amount == 0)
+                        return 0;
+                  return Integer.MAX_VALUE;
             }
-        }
+            if(dp[i][amount] != -1) return dp[i][amount];
+            long skip = coinCount(i + 1, coins, amount,dp);
+            if (amount - coins[i] < 0)
+                  return skip;
+            long pick = 1 + coinCount(i, coins, amount - coins[i],dp);
+            dp[i][amount] = (int) Math.min(skip, pick);
+            return dp[i][amount];
+      }
 
-        // Fill the rest of the table
-        for (int i = 2; i <= n; i++) {
-            for (int j = 1; j <= amount; j++) {
-                if (coins[i - 1] <= j) {
-                    t[i][j] = Math.min(1 + t[i][j - coins[i - 1]], t[i - 1][j]);
-                } else {
-                    t[i][j] = t[i - 1][j];
-                }
-            }
-        }
+      public int coinChange(int[] coins, int amount) {
+            int[][]dp = new int[coins.length + 1][amount + 1];
+            for(int i=0; i<dp.length;i++)
+                  for(int j=0;j<dp[0].length;j++) dp[i][j] =-1;
 
-        return t[n][amount] == Integer.MAX_VALUE - 1 ? -1 : t[n][amount];
-    }
+                  
+            long result = coinCount(0, coins, amount,dp);
+            return result == Integer.MAX_VALUE ? -1 : (int) result;
+      }
 }
