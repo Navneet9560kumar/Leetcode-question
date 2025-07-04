@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0443-string-compression) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0392-is-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0516-longest-palindromic-subsequence) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0516-longest-palindromic-subsequence) |
