@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
