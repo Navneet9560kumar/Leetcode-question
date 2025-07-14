@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0725-split-linked-list-in-parts) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
