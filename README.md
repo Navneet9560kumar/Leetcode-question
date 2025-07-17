@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1706-min-cost-to-connect-all-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
