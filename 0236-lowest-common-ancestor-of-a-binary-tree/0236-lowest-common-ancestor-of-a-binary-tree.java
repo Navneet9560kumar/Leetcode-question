@@ -9,22 +9,17 @@
  */
 class Solution {
 
-       public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        // Base condition: If root is null or matches p or q, return root
-        if (root == null || root == p || root == q) {
-            return root;
-        }
-
-        // Recursive calls for left and right subtrees
-        TreeNode leftLCA = lowestCommonAncestor(root.left, p, q);
-        TreeNode rightLCA = lowestCommonAncestor(root.right, p, q);
-
-        // If both leftLCA and rightLCA are non-null, root is the LCA
-        if (leftLCA != null && rightLCA != null) {
-            return root;
-        }
-
-        // Otherwise, return the non-null value
-        return (leftLCA != null) ? leftLCA : rightLCA;
+    public boolean exists(TreeNode root, TreeNode node){
+        if(node==root)return true;
+        if(root==null)return false;
+        return exists(root.left,node)||exists(root.right,node);
+    }
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if(p==root || q==root)return root;
+        boolean PLieInList = exists(root.left,p);
+             boolean qLieInList = exists(root.left,q);
+             if(PLieInList==true &&qLieInList==true)return lowestCommonAncestor(root.left,p,q);
+               if(PLieInList==false &&qLieInList==false)return lowestCommonAncestor(root.right,p,q);
+               else return root;
     }
 }
