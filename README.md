@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0049-group-anagrams) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0200-number-of-islands) |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0077-combinations) |
