@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
