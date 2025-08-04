@@ -1,16 +1,19 @@
 class NumArray {
 
-        int[]arr;
+       private int[] arr; // class-level variable
+
+    // Correct constructor
     public NumArray(int[] nums) {
-        arr = nums;
-    }
-    
-    public int sumRange(int left, int right) {
-         int sum =0;
-        for (int i = left; i <= right; i++) {
-            sum +=arr[i];
+        arr = Arrays.copyOf(nums, nums.length);
+
+        for (int i = 1; i < nums.length; i++) {
+            arr[i] += arr[i - 1]; // prefix sum
         }
-        return sum;
+    }
+
+    public int sumRange(int left, int right) {
+        if (left == 0) return arr[right];
+        return arr[right] - arr[left - 1];
     }
 }
 
