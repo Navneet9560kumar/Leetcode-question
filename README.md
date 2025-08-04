@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0416-partition-equal-subset-sum) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1155,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
