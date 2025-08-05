@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -857,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2329-maximum-product-after-k-increments](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2329-maximum-product-after-k-increments) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2465-shifting-letters-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3427-special-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3427-special-array-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3639-zero-array-transformation-i) |
