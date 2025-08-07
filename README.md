@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0661-image-smoother](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0661-image-smoother) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0940-fruit-into-baskets) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1206-corporate-flight-bookings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1206-corporate-flight-bookings) |
