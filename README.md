@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1138-grumpy-bookstore-owner) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1206-corporate-flight-bookings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1364-tuple-with-same-product) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1206-corporate-flight-bookings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1206-corporate-flight-bookings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1537-maximum-score-after-splitting-a-string) |
