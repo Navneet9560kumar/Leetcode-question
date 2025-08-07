@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3427-special-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3427-special-array-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3639-zero-array-transformation-i) |
