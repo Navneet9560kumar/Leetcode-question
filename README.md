@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3291-find-if-array-can-be-sorted) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Tree
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
