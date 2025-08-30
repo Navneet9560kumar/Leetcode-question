@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0064-minimum-path-sum) |
@@ -1127,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0051-n-queens) |
