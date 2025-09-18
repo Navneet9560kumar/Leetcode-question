@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1220,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3791-fruits-into-baskets-iii) |
 ## Geometry
@@ -1298,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
