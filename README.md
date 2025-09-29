@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1138-grumpy-bookstore-owner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1138-grumpy-bookstore-owner) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1206-corporate-flight-bookings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1206-corporate-flight-bookings) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1063-best-sightseeing-pair) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
