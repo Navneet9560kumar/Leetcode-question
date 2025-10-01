@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-circle-and-rectangle-overlapping](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1642-water-bottles) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1642-water-bottles](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
