@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0141-linked-list-cycle) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0036-valid-sudoku) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0649-dota2-senate) |
