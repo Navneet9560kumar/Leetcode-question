@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0830-largest-triangle-area) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0661-image-smoother) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
@@ -930,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1131,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1299,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1058-lexicographically-smallest-equivalent-string) |
