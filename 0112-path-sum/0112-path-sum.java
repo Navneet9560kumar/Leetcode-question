@@ -16,31 +16,21 @@
 class Solution {
  public void path(TreeNode root, int currentSum, List<Integer> pathSums) {
         if (root == null) return;
-
-        currentSum += root.val;
-
-        // If it's a leaf node, add the current path sum to the list
-        if (root.left == null && root.right == null) {
+         currentSum += root.val;
+            if (root.left == null && root.right == null) {
             pathSums.add(currentSum);
             return;
         }
-
-        // Recur for left and right subtrees
-        path(root.left, currentSum, pathSums);
+         path(root.left, currentSum, pathSums);
         path(root.right, currentSum, pathSums);
     }
-
-    public boolean hasPathSum(TreeNode root, int targetSum) {
+        public boolean hasPathSum(TreeNode root, int targetSum) {
         if (root == null) return false;
-
-        List<Integer> pathSums = new ArrayList<>();
+         List<Integer> pathSums = new ArrayList<>();
         path(root, 0, pathSums);
-
-        // Check if any path sum matches the target
         for (int sum : pathSums) {
-            if (sum == targetSum) return true;
+         if (sum == targetSum) return true;
         }
-
         return false;
     }
 }
