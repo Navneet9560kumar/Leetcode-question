@@ -25,10 +25,10 @@ class Solution {
         if (root == null) return;
         
         if (level == ans.size()) {
-            ans.add(root.val);  // Correct way to add elements at new level
+            ans.add(root.val);   
         }
 
-        perorder(root.right, level + 1, ans); // First right, then left for right-side view
+        perorder(root.right, level + 1, ans); 
         perorder(root.left, level + 1, ans);
     }
 
