@@ -1,34 +1,23 @@
-class Pair{
-    int firstOcc;
-    int secondOcc;
-    Pair(int firstOcc, int secondOcc ){
-        this.firstOcc=firstOcc;
-        this.secondOcc=secondOcc;
-    }
-}
 class Solution {
-    public int countPalindromicSubsequence(String s) {
-        Pair arr[] = new Pair[26];
-        for (int i = 0; i < 26; i++) {
-            arr[i] = new Pair(-1,-1);
-        }
-        for(int i=0;i<s.length();i++){
-            if(arr[s.charAt(i)-'a'].firstOcc==-1){
-                arr[s.charAt(i)-'a'].firstOcc = i;
+     public  static int countPalindromicSubsequence(String s) {
+            HashMap<Character, Integer> fristmap = new HashMap<>();
+            HashMap<Character, Integer> lastmap = new HashMap<>();
+            for (int i = 0; i < s.length(); i++) {
+                  char ch = s.charAt(i);
+                  fristmap.putIfAbsent(ch, i);
+                  lastmap.put(ch, i);
             }
-            else
-                arr[s.charAt(i)-'a'].secondOcc=i;
-        }
-        int cnt=0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i].firstOcc !=-1 && arr[i].secondOcc !=-1){
-                HashSet<Character> hs= new HashSet<>();
-                for(int j=arr[i].firstOcc+1;j<arr[i].secondOcc;j++){
-                    hs.add(s.charAt(j));
-                }
-                cnt+=hs.size();
+            int count = 0;
+            for (char ch : fristmap.keySet()) {
+                int first = fristmap.get(ch);
+                int last = lastmap.get(ch);
+                Set<Character> set = new HashSet<>();
+                  for (int i = first + 1; i < last; i++) {
+                          set.add(s.charAt(i));
+                  }
+                  count += set.size();
             }
-        }
-        return cnt;
-    }
+            return count;
+       }
+
 }
