@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
@@ -1392,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1400,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 ## Minimum Spanning Tree
 |  |
