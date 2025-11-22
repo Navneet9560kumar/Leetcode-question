@@ -1,46 +1,48 @@
+class Solution {
+  public int maxSatisfied(int[] arr, int[] grumpy, int k) {
 
-    class Solution {
-    public int maxSatisfied(int[] arr, int[] grumpy, int k) {
-        int n = arr.length;
-        int unsatisfied = 0;
+        int n = arr.length, i = 0, j = k - 1, unsaticfied = 0;
 
-        // Calculate initial window [0...k-1]
-        for (int x = 0; x < k; x++) {
-            if (grumpy[x] == 1) {
-                unsatisfied += arr[x];
-            }
+        int maxunsaticfied = 0;   // ❌ pehle declare hi nahi kiya tha
+        int a = i; 
+        int b = 0;
+
+        // first window
+        for (int x = i; x <= j && x < n; x++) {
+            if (grumpy[x] == 1) unsaticfied += arr[x];
         }
 
-        int maxUnsatisfied = unsatisfied;
-        int a = 0, b = k - 1;
+        // sliding window
+        while (j < n) {
 
-        // Sliding window from k to n-1
-        for (int i = 1; i + k - 1 < n; i++) {
-            int j = i + k - 1;
-
-            if (grumpy[j] == 1) unsatisfied += arr[j];
-            if (grumpy[i - 1] == 1) unsatisfied -= arr[i - 1];
-
-            if (unsatisfied > maxUnsatisfied) {
-                maxUnsatisfied = unsatisfied;
-                a = i;
+            if (maxunsaticfied < unsaticfied) {
+                maxunsaticfied = unsaticfied;
+                a = i; 
                 b = j;
             }
+
+            // move window
+            j++;
+            if (j < n && grumpy[j] == 1) unsaticfied += arr[j];
+
+            // ❌ tum subtract karna bhool gaye the
+            if (grumpy[i] == 1) unsaticfied -= arr[i];
+
+            i++;
         }
 
-        // Temporarily make grumpy zero in best window
+        // window calm kar diya
         for (int x = a; x <= b; x++) {
             grumpy[x] = 0;
         }
 
-        // Calculate total satisfied customers
         int satisfied = 0;
+
         for (int x = 0; x < n; x++) {
-            if (grumpy[x] == 0) {
-                satisfied += arr[x];
-            }
+            // ❌ yahan tum arr[i] add kar rahe the — galat index
+            if (grumpy[x] == 0) satisfied += arr[x];
         }
 
-        return satisfied;
+        return satisfied;   // ❌ missing return
     }
 }
