@@ -627,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2107-find-unique-binary-string) |
@@ -1089,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0342-power-of-four) |
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1132,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2145-grid-game) |
