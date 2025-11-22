@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0940-fruit-into-baskets) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0952-word-subsets) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0904-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1052-grumpy-bookstore-owner) |
 | [1138-grumpy-bookstore-owner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1138-grumpy-bookstore-owner) |
