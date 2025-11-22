@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2716-prime-subtraction-operation) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
