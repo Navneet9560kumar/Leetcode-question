@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Linked List
