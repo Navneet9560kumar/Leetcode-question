@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3639-zero-array-transformation-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3427-special-array-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1215,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
@@ -1240,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1280,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2868-continuous-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Graph
 |  |
 | ------- |
