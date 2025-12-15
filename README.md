@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2432-number-of-zero-filled-subarrays) |
