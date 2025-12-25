@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
