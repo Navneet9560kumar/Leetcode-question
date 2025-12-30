@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0661-image-smoother) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
