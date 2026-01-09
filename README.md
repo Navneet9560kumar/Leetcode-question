@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
