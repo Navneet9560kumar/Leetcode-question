@@ -1,5 +1,5 @@
 class Solution {
-    public int maximalRectangle(char[][] matrix) {
+       public int maximalRectangle(char[][] matrix) {
         if (matrix.length == 0) return 0;
 
         int cols = matrix[0].length;
@@ -8,7 +8,7 @@ class Solution {
 
         for (char[] row : matrix) {
 
-            // build histogram
+          
             for (int j = 0; j < cols; j++) {
                 if (row[j] == '1')
                     heights[j]++;
@@ -21,21 +21,34 @@ class Solution {
         return maxArea;
     }
 
-    // Largest rectangle in histogram
-    private int largestRectangle(int[] heights) {
-        java.util.Stack<Integer> stack = new java.util.Stack<>();
-        int max = 0;
+    // Largest rectangle dekhte
+public static int largestRectangle(int[] heights) {
 
-        for (int i = 0; i <= heights.length; i++) {
-            int h = (i == heights.length) ? 0 : heights[i];
+    Stack<Integer> st = new Stack<>();
+    int maxArea = 0;
+    int n = heights.length;
 
-            while (!stack.isEmpty() && h < heights[stack.peek()]) {
-                int height = heights[stack.pop()];
-                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
-                max = Math.max(max, height * width);
-            }
-            stack.push(i);
+    for (int i = 0; i <= n; i++) {
+
+        int currHeight = (i == n) ? 0 : heights[i];
+
+        while (!st.isEmpty() && currHeight < heights[st.peek()]) {
+
+            int height = heights[st.pop()];
+            int width;
+
+            if (st.isEmpty())
+                width = i;
+            else
+                width = i - st.peek() - 1;
+
+            maxArea = Math.max(maxArea, height * width);
         }
-        return max;
+
+        st.push(i);
     }
+
+    return maxArea;
+}
+
 }
