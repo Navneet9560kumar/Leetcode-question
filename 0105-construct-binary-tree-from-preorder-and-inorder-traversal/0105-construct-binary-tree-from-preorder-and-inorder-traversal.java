@@ -38,7 +38,6 @@ class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         int n = preorder.length;
         return helper(preorder, inorder, 0, n - 1, 0, n - 1);
-    } {
-        
-    }
+    } 
+    
 }
