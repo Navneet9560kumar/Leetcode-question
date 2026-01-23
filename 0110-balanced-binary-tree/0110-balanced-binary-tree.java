@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree TreeNode.
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
@@ -14,20 +14,20 @@
  * }
  */
 class Solution {
+    public static int levels(TreeNode root){
+            if(root==null)return 0 ;
+            return 1 + Math.max(levels(root.right),levels(root.left));
 
-    public int levels(TreeNode root){
-        if(root==null)return 0;
-        return 1+Math.max(levels(root.left),levels(root.right));
-    }
 
-    public boolean isBalanced(TreeNode root) {
-        if(root==null)return true;
-       int diff = Math.abs(levels(root.left) - levels(root.right));
-        if(diff>1) return false;
-      boolean lst =  isBalanced(root.left);
-        if(lst==false)return false;
-        boolean rst =  isBalanced(root.right);
-           if(rst==false)return false;
-           return true;
-    }
+      }
+          public boolean isBalanced(TreeNode root){
+            if(root ==null ) return true;
+                  int differ=  Math.abs(levels(root.left) - levels(root.right));
+                  if(differ>1) return false;
+                  boolean lst = isBalanced(root.left);
+                  if(lst==false)return false;
+                  boolean rst = isBalanced(root.right);
+                  if(rst==false)return false;
+                  return true;
+          }
 }
