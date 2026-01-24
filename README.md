@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2092-find-all-people-with-secret](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2092-find-all-people-with-secret) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1972-rotating-the-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-map-of-highest-peak](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1876-map-of-highest-peak) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2089-maximum-matrix-sum) |
