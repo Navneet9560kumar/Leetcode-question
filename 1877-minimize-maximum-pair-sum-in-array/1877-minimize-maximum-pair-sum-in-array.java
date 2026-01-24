@@ -1,18 +1,20 @@
 class Solution {
 
-    public int minPairSum(int[] nums) {
-     Arrays.sort(nums);      // Step 1: sort
+    public int minPairSum(int[] arr) {
+      Arrays.sort(arr);
+
         int left = 0;
-        int right = nums.length - 1;
-        int maxSum = 0;
+        int right = arr.length - 1;
+
+        ArrayList<Integer> pairSums = new ArrayList<>();
 
         while (left < right) {
-            int pairSum = nums[left] + nums[right];
-            maxSum = Math.max(maxSum, pairSum);
+            pairSums.add(arr[left] + arr[right]);
             left++;
             right--;
         }
 
-        return maxSum;
+        int max = Collections.max(pairSums);
+        return max;
     }
 }
