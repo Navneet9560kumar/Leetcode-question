@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1584,6 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0538-convert-bst-to-greater-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
