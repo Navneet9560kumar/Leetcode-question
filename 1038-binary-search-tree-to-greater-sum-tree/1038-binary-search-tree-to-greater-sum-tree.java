@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree TreeNode.
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
@@ -15,21 +15,18 @@
  */
 class Solution {
 
-  public void inorder(TreeNode root, List<TreeNode> arr) {
+     static int sum ;
+ public static void reverseinorder(TreeNode root) {
         if(root==null) return;
-        inorder(root.left,arr);
-        arr.add(root);
-        inorder(root.right,arr);
+        reverseinorder(root.right);
+       root.val+=sum;
+       sum = root.val;
+        reverseinorder(root.left);
      }
 
-
-    public TreeNode bstToGst(TreeNode root) {
-        List<TreeNode>arr =new ArrayList<>();
-        inorder(root,arr);
-        int n= arr.size();
-        for(int i=n-2;i>=0;i--){
-            arr.get(i).val += arr.get(i+1).val;
-        }
-        return root;
-    }
+            public static TreeNode bstToGst(TreeNode root){
+                 sum=0;
+                  reverseinorder(root); 
+                 return root;
+            }
 }
