@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1607,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
