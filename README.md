@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
