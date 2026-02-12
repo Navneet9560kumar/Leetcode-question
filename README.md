@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0871-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0780-max-chunks-to-make-sorted) |
+| [0897-increasing-order-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0897-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1665,6 +1669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
