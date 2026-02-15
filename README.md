@@ -732,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0205-isomorphic-strings) |
@@ -1102,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0096-unique-binary-search-trees) |
@@ -1167,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0187-repeated-dna-sequences) |
