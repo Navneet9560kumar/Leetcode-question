@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0801-is-graph-bipartite) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1771,6 +1773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1780,5 +1783,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
