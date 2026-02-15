@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0215-kth-largest-element-in-an-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0148-sort-list) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0118-pascals-triangle) |
