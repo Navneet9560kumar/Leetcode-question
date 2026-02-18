@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
@@ -1722,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1794,6 +1797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2977-minimum-cost-to-convert-string-ii) |
