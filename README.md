@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0696-count-binary-substrings) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0944-delete-columns-to-make-sorted) |
