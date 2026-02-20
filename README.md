@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0780-max-chunks-to-make-sorted) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0952-word-subsets) |
@@ -1227,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1382-balance-a-binary-search-tree) |
