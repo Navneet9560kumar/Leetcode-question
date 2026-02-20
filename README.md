@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0780-max-chunks-to-make-sorted) |
+| [0791-custom-sort-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0791-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0761-special-binary-string) |
+| [0791-custom-sort-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0791-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0952-word-subsets) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
+| [0791-custom-sort-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0791-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
