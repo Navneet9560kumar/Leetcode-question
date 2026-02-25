@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1390-four-divisors) |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1160-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
@@ -1390,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1940-maximum-xor-for-each-query) |
