@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2689-rearranging-fruits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1464,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3427-special-array-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
