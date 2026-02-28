@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1511,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2868-continuous-subarrays) |
