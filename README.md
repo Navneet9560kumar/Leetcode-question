@@ -1582,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
+| [1845-seat-reservation-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1845-seat-reservation-manager) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
@@ -1814,6 +1815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
+| [1845-seat-reservation-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1845-seat-reservation-manager) |
 | [2429-design-a-food-rating-system](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 ## Data Stream
