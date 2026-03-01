@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0761-special-binary-string) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0661-image-smoother) |
 | [0679-24-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0679-24-game) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0621-task-scheduler) |
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
 | [0791-custom-sort-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0791-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1160-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -1340,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0649-dota2-senate) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1565,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
