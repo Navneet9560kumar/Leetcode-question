@@ -1,8 +1,7 @@
 class Solution {
     public int fillCups(int[] arr) {
 
-        PriorityQueue<Integer> max =
-                new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> max = new PriorityQueue<>(Collections.reverseOrder());
 
         for (int ele : arr) {
             if (ele > 0)
