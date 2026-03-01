@@ -1,10 +1,37 @@
-public class Solution {
-    public int fillCups(int[] amount) {
+class Solution {
+    public int fillCups(int[] arr) {
 
-        int total = amount[0] + amount[1] + amount[2];
-        int max = Math.max(amount[0], 
-                  Math.max(amount[1], amount[2]));
+        PriorityQueue<Integer> max =
+                new PriorityQueue<>(Collections.reverseOrder());
 
-        return Math.max(max, (total + 1) / 2);
+        for (int ele : arr) {
+            if (ele > 0)
+                max.add(ele);
+        }
+
+        int seconds = 0;
+
+        while (!max.isEmpty()) {
+
+            int first = max.poll();
+
+            if (!max.isEmpty()) {
+                int second = max.poll();
+
+                if (first - 1 > 0)
+                    max.add(first - 1);
+
+                if (second - 1 > 0)
+                    max.add(second - 1);
+
+            } else {
+                if (first - 1 > 0)
+                    max.add(first - 1);
+            }
+
+            seconds++;
+        }
+
+        return seconds;
     }
 }
