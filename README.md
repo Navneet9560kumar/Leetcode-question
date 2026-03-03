@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0897-increasing-order-search-tree) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0897-increasing-order-search-tree) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0871-keys-and-rooms](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0871-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0872-leaf-similar-trees) |
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0756-pyramid-transition-matrix) |
 | [0791-custom-sort-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0791-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0904-fruit-into-baskets) |
