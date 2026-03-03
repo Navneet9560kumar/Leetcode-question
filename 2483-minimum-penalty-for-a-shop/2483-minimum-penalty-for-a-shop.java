@@ -1,30 +1,34 @@
 class Solution {
     public int bestClosingTime(String str) {
         int n = str.length();
-
-        int[] prefixN = new int[n + 1];  // counts of 'N' up to hour i
+        
+        int[] pre = new int[n + 1];   // prefix for 'N'
         for (int i = 1; i <= n; i++) {
-            prefixN[i] = prefixN[i - 1];
-            if (str.charAt(i - 1) == 'N') prefixN[i]++;
-        }
-
-        int[] suffixY = new int[n + 1];  // counts of 'Y' from hour i to end
-        for (int i = n - 1; i >= 0; i--) {
-            suffixY[i] = suffixY[i + 1];
-            if (str.charAt(i) == 'Y') suffixY[i]++;  // ✅ Fixed here
-        }
-
-        int minPenalty = Integer.MAX_VALUE;
-        int bestHour = 0;
-
-        for (int i = 0; i <= n; i++) {
-            int penalty = prefixN[i] + suffixY[i];
-            if (penalty < minPenalty) {
-                minPenalty = penalty;
-                bestHour = i;
+            pre[i] = pre[i - 1];
+            if (str.charAt(i - 1) == 'N') {
+                pre[i]++;
             }
         }
 
-        return bestHour;
+        int[] suf = new int[n + 1];   // suffix for 'Y'
+        for (int i = n - 1; i >= 0; i--) {
+            suf[i] = suf[i + 1];
+            if (str.charAt(i) == 'Y') {
+                suf[i]++;
+            }
+        }
+
+        int min = Integer.MAX_VALUE;
+        int ans = 0;
+
+        for (int i = 0; i <= n; i++) {
+            int penalty = pre[i] + suf[i];
+            if (penalty < min) {
+                min = penalty;
+                ans = i;
+            }
+        }
+
+        return ans;
     }
 }
