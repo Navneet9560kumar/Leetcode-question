@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2536-increment-submatrices-by-one](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2536-increment-submatrices-by-one) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2536-increment-submatrices-by-one](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2536-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1495,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2529-range-product-queries-of-powers) |
+| [2536-increment-submatrices-by-one](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2574-left-and-right-sum-differences) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
