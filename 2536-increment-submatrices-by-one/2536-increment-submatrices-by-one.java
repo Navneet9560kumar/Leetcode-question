@@ -9,13 +9,18 @@ class Solution {
 
             // Fill the submatrix
             for (int i = r1; i <= r2; i++) {
-                for (int j = c1; j <= c2; j++) {
-                    mat[i][j] += 1;
+                mat[i][c1]+=1;
+                if(c2+1<n){
+                   mat[i][c2 + 1] -= 1;  // FIXED
                 }
             }
         }
 
-        return mat;
-
+      for(int i=0;i<n;i++){
+        for(int j=1;j<n;j++){
+            mat[i][j] += mat[i][j-1];
+        }
+      }
+      return mat;
     }
 }
