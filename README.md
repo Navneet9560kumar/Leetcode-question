@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1082,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1549,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1813-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
