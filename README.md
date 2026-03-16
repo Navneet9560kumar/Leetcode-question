@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2092-find-all-people-with-secret) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-largest-magic-square) |
@@ -1159,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1972-rotating-the-box) |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1518,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1637,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1612-avoid-flood-in-the-city) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [1845-seat-reservation-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1845-seat-reservation-manager) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
