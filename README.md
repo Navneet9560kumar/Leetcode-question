@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0661-image-smoother) |
 | [0679-24-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1145,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0840-magic-squares-in-grid) |
@@ -1950,6 +1954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
