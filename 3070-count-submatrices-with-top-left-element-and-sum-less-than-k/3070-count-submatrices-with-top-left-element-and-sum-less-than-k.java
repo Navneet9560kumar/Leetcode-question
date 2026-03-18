@@ -1,28 +1,23 @@
 class Solution {
     public int countSubmatrices(int[][] arr, int k) {
-        int m = arr.length, n = arr[0].length;
-        
-        // prefix sum
-        int[][] pre = new int[m+1][n+1];
-        
-        for(int i=1;i<=m;i++){
-            for(int j=1;j<=n;j++){
-                pre[i][j] = arr[i-1][j-1]
-                          + pre[i-1][j]
-                          + pre[i][j-1]
-                          - pre[i-1][j-1];
-            }
-        }
-        
+        int m = arr.length;
+        int n = arr[0].length;
         int count = 0;
-        
-        // only (0,0) → (i,j)
-        for(int i=1;i<=m;i++){
-            for(int j=1;j<=n;j++){
-                if(pre[i][j] <= k) count++;
-            }
-        }
-        
-        return count;
+
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(i>0)arr[i][j] +=arr[i-1][j];
+                if(j>0)arr[i][j] +=arr[i][j-1];
+                if(i>0 && j>0)arr[i][j] -=arr[i-1][j-1];
+
+                if(arr[i][j]<=k){
+                    count++;
+
+                } else{
+                    break;
+                }
+            }   
     }
+     return count;
 }
+    }
