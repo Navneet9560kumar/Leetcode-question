@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2574-left-and-right-sum-differences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2562-count-ways-to-build-good-strings) |
+| [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -1192,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2536-increment-submatrices-by-one) |
+| [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1454,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1984,6 +1989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
+| [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bitmask
