@@ -2,7 +2,8 @@ import java.util.*;
 
 class Solution {
     public void helper(TreeNode root, int target, List<Integer> arr, List<List<Integer>> ans) {
-        if (root == null) return;
+        if (root == null)
+            return;
 
         arr.add(root.val);
 
