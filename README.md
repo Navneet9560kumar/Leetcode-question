@@ -896,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1478,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1538,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Prefix Sum
 |  |
 | ------- |
