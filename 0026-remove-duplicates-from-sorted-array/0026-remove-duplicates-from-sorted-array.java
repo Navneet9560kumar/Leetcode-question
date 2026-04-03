@@ -1,13 +1,17 @@
 class Solution {
-    public int removeDuplicates(int[] nums) {
-        int n = nums.length;
-        int j=1;
-        for(int i=1;i<n;i++){
-            if(nums[i]!=nums[j-1]){
-                nums[j]=nums[i];
-                j++;
+    public int removeDuplicates(int[] arr) {
+        int n = arr.length;
+        if (n == 0) return 0;
+
+        int i = 0; // unique elements ka pointer
+
+        for (int j = 1; j < n; j++) {
+            if (arr[j] != arr[i]) {
+                i++;
+                arr[i] = arr[j];
             }
         }
-         return j;
+
+        return i + 1; // unique elements count
     }
 }
