@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Tree
 |  |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
