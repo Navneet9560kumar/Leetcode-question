@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1940-maximum-xor-for-each-query) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
