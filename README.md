@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0791-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0900-reordered-power-of-2](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0900-reordered-power-of-2) |
+| [0922-sort-array-by-parity-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0973-k-closest-points-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0696-count-binary-substrings) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0908-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0922-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0922-sort-array-by-parity-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0922-sort-array-by-parity-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0944-delete-columns-to-make-sorted) |
