@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1972-rotating-the-box](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1972-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2274-keep-multiplying-found-values-by-two) |
