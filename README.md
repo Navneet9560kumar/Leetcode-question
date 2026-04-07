@@ -1332,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2069-walking-robot-simulation-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1949,6 +1950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1845-seat-reservation-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1845-seat-reservation-manager) |
+| [2069-walking-robot-simulation-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 ## Data Stream
