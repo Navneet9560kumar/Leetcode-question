@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0725-split-linked-list-in-parts) |
+| [0876-middle-of-the-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0696-count-binary-substrings) |
 | [0852-friends-of-appropriate-ages](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0852-friends-of-appropriate-ages) |
+| [0876-middle-of-the-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0908-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0922-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
