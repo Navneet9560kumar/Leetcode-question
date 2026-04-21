@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1558-course-schedule-iv) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2092-find-all-people-with-secret) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1706-min-cost-to-connect-all-points) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1755-defuse-the-bomb) |
@@ -2051,6 +2053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-count-the-number-of-complete-components) |
