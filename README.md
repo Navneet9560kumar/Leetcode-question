@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2574-left-and-right-sum-differences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1032,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-sum-of-distances](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2689-rearranging-fruits) |
@@ -1635,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2574-left-and-right-sum-differences) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2615-sum-of-distances) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
