@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0509-fibonacci-number) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0679-24-game) |
