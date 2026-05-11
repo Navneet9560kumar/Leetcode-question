@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2554-minimum-total-distance-traveled) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2573-find-the-string-with-lcp](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2573-find-the-string-with-lcp) |
@@ -1408,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2479-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
