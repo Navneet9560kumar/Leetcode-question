@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0179-largest-number) |
@@ -1459,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
