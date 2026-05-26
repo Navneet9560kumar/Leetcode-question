@@ -956,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
