@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-two-best-non-overlapping-events](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1593,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2089-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2300-construct-string-with-repeat-limit) |
