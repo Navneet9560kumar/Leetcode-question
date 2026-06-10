@@ -854,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1634,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
@@ -1874,6 +1876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1963,6 +1966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
