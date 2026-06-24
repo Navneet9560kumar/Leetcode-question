@@ -1275,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1429,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
