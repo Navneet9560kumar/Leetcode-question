@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3606-coupon-code-validator) |
+| [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3640-trionic-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1595,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1911,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
@@ -1956,6 +1960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
@@ -2115,6 +2120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
 | ------- |
@@ -2198,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
