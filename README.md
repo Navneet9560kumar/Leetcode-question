@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1086,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
