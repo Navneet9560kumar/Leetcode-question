@@ -37,7 +37,7 @@ class Solution {
                     int take2 = dp[i + 1][first][gcd(second, nums[i])];
 
                     dp[i][first][second] = (int)((0L + skip + take1 + take2) % MOD);
-                }
+                }  
             }
         }
 
