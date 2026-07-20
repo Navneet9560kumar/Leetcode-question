@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1345,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1260-shift-2d-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1497,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1545-find-kth-bit-in-nth-binary-string) |
