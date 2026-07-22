@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3606-coupon-code-validator](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3617-find-the-original-typed-string-i) |
@@ -1634,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3454-separate-squares-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
@@ -2057,6 +2060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3721-longest-balanced-subarray-ii) |
