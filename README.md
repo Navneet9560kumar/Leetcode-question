@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1473,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
