@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1210,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1709,6 +1713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
