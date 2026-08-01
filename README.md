@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0498-diagonal-traverse) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0516-longest-palindromic-subsequence) |
@@ -1428,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -2137,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0486-predict-the-winner) |
 | [1788-stone-game-vi](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1788-stone-game-vi) |
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search Tree
