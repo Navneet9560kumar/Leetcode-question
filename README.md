@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3531-count-covered-buildings) |
@@ -1488,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1782,6 +1784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3394-minimum-array-end) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -2244,6 +2247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
