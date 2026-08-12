@@ -1041,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1516,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3433-count-mentions-per-user](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1758,6 +1760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1944,6 +1947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2716-prime-subtraction-operation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
@@ -2106,6 +2110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
