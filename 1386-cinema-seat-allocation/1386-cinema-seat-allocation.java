@@ -1,7 +1,6 @@
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-
-        int l = 0, r = 0, prev = 0;
+    int l = 0, r = 0, prev = 0;
         int sz = reservedSeats.length;
 
         Arrays.sort(reservedSeats, (a, b) -> a[0] - b[0]);
