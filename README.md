@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1139,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1721,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1803,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
