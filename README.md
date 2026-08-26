@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
@@ -1379,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0073-set-matrix-zeroes) |
@@ -1557,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0498-diagonal-traverse) |
