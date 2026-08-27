@@ -1070,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3714-longest-balanced-substring-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 | [3714-longest-balanced-substring-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3583-count-special-triplets](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3583-count-special-triplets) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1789,6 +1792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
@@ -2322,6 +2326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
