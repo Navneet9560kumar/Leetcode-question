@@ -11,22 +11,22 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if(head==null || head.next==null)return null;
-        ListNode  slow = head;
-        ListNode fast = head;
-
+        // to question ye iis taha se hai ke ham slow or fast ko chlayenge or fir uske baad ek temp  var bhi le lenge or fir temp  or
+        if(head==null|| head.next==null)return null; 
+        ListNode slow = head;
+        ListNode fast= head;
         while(fast!=null && fast.next!=null){
             slow =  slow.next;
-            fast  = fast.next.next;
-            if(fast==slow) break;
+            fast = fast.next.next;
+            if(fast==slow)break;
         }
-        if(fast!=slow)return null;
+        if(fast!=slow) return null;
         ListNode temp = head;
         while(temp!=slow){
             slow = slow.next;
             temp = temp.next;
         }
-        return temp;
-        
+        return slow;
+
     }
 }
