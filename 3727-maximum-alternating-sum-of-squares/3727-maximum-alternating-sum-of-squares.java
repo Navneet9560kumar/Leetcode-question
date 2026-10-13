@@ -1,16 +1,27 @@
+
+import java.util.Arrays;
+
 class Solution {
     public long maxAlternatingSum(int[] arr) {
-        int n= arr.length;
-        for(int i=0;i<n;i++){
-            arr[i]=  arr[i] *arr[i];
+        int n = arr.length;
 
+        for (int i = 0; i < n; i++) {
+            arr[i] = arr[i] * arr[i];
         }
+
         Arrays.sort(arr);
-        
-        long small = Arrays.stream(arr, 0, n / 2).asLongStream().sum();
-        long large = Arrays.stream(arr, n / 2, n).asLongStream().sum();
 
+        long small = 0;
+        long large = 0;
 
-          return large - small;
+        for (int i = 0; i < n / 2; i++) {
+            small += arr[i];
+        }
+
+        for (int i = n / 2; i < n; i++) {
+            large += arr[i];
+        }
+
+        return large - small;
     }
 }
