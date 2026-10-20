@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -1586,6 +1588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -2373,6 +2376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3886-sum-of-sortable-integers) |
 ## Probability and Statistics
 |  |
 | ------- |
