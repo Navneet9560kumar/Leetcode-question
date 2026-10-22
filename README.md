@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
