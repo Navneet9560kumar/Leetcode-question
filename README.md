@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1206-corporate-flight-bookings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1431,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1254-number-of-closed-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1301-number-of-paths-with-max-score) |
@@ -2421,6 +2425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/1971-find-if-path-exists-in-graph) |
