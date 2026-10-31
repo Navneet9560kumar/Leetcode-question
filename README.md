@@ -1103,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
@@ -2115,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2159,6 +2161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -2426,6 +2429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
