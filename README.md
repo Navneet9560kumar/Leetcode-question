@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0611-valid-triangle-number) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0486-predict-the-winner) |
@@ -1515,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/0679-24-game) |
