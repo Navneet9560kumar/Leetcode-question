@@ -903,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3488-closest-equal-element-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3531-count-covered-buildings) |
@@ -1400,6 +1402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1586,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3433-count-mentions-per-user](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3462-vowels-game-in-a-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3536-maximum-product-of-two-digits) |
@@ -2025,6 +2029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3634-minimum-removals-to-balance-array) |
@@ -2113,6 +2118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
