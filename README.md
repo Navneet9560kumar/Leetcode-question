@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3379-transformed-array) |
@@ -1088,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3396-valid-word) |
@@ -1238,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navneet9560kumar/Leetcode-question/tree/master/3437-maximum-total-damage-with-spell-casting) |
